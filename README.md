@@ -1,7 +1,7 @@
-<p allign="center">
+<p align="center">
    Projeto de entregas feito com Prisma
 </p>
-<p allign="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
+<p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
 <hr>
 
 
